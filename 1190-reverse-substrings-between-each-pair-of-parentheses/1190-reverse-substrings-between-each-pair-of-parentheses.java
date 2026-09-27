@@ -1,25 +1,23 @@
 class Solution {
-    // Time complexity: O(N^2) because curr += ch creates a new String and copies the existing curr each time, resulting in 1 + 2 + 3 + ... + N = O(N²).
+    // Time complexity: O(N^2) 
     // Space complexity: O(N)
     public String reverseParentheses(String s) {
-        Stack<String> st = new Stack<>(); // stack to store strings before '('
-        String curr = "";       // current working string
+        Stack<StringBuilder> st = new Stack<>(); // stack to store strings before '('
+        StringBuilder curr = new StringBuilder();       // current working string
 
-        //
-        for(int i = 0; i < s.length(); i++){
-            char ch = s.charAt(i);
+        for(char ch: s.toCharArray()){
             if(ch == '('){
                 st.push(curr);  // save current string before '('
-                curr = "";   // reset the current string 
+                curr = new StringBuilder();   // reset the current string 
             }else if(ch == ')'){
                 // reverse the current substring inside the parenthesis
-                String revCurr = new StringBuilder(curr).reverse().toString();
+                curr.reverse();
                 // Combine previous string + reversed substring
-                curr = st.pop() + revCurr;
+                curr.insert(0, st.pop());
             }else{
-                curr += ch; // build current substring
+                curr.append(ch); // build current substring
             }
         }
-        return curr;  // final reversed string
+        return curr.toString();  // final reversed string
     }
 }
