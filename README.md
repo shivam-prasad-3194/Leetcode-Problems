@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2032-two-out-of-three) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2465-number-of-distinct-averages](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0542-01-matrix](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0542-01-matrix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -424,4 +427,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
