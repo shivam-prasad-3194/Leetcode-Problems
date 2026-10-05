@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1154-day-of-the-year) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3280-convert-date-to-binary](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3280-convert-date-to-binary) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
