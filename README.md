@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0537-complex-number-multiplication) |
 | [0796-rotate-string](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1154-day-of-the-year](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Trie
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
