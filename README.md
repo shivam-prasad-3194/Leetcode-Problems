@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1550-three-consecutive-odds](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
