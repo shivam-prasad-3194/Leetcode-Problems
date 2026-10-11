@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2465-number-of-distinct-averages](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3765-complete-prime-number](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3765-complete-prime-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
