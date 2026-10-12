@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3798-largest-even-number](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3798-largest-even-number) |
 ## Hash Table
 |  |
 | ------- |
