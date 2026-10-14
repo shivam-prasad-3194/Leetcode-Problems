@@ -453,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
