@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2465-number-of-distinct-averages](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1046-last-stone-weight) |
