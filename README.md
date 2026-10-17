@@ -463,5 +463,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0182-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0627-swap-sex-of-employees) |
+| [1729-find-followers-count](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
