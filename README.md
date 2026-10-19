@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2465-number-of-distinct-averages](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2032-two-out-of-three) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2465-number-of-distinct-averages](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2465-number-of-distinct-averages) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Number Theory
 |  |
 | ------- |
