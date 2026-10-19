@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [3280-convert-date-to-binary](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3280-convert-date-to-binary) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
