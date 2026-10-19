@@ -1,0 +1,16 @@
+class Solution {
+    // Time complexity: O(n log n)
+    // Space complexity: O(n)
+    public List<Integer> targetIndices(int[] nums, int target) {
+        Arrays.sort(nums);
+        List<Integer> list = new ArrayList<>();
+        for(int i = 0; i <  nums.length; i++){
+            if(nums[i] == target){
+                list.add(i);
+            }else if(nums[i] > target){
+                break;
+            }
+        }   
+        return list;
+    }
+}
