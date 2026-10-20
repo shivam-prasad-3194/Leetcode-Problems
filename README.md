@@ -470,4 +470,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0627-swap-sex-of-employees) |
 | [1729-find-followers-count](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
