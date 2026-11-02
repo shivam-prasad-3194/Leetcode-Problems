@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -491,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1873-calculate-special-bonus) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
