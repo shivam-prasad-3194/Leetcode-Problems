@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/0627-swap-sex-of-employees) |
+| [1075-project-employees-i](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1075-project-employees-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/shivamprasad-arc/Leetcode-Problems/tree/master/1693-daily-leads-and-partners) |
